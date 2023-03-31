@@ -1,5 +1,6 @@
  # End of maintenance for GPyOpt
 
+# ged
 Dear GPyOpt community!
 
 We would like to acknowledge the obvious. The core team of GPyOpt has moved on, and over the past months we weren't giving the package nearly as much attention as it deserves. Instead of dragging our feet and giving people only occasional replies and no new features, we feel the time has come to officially declare the end of GPyOpt maintenance and archive this repository.
